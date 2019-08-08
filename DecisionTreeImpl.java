@@ -12,6 +12,8 @@ import java.util.TreeMap;
  * 
  * See DecisionTree for a description of default methods.
  */
+//Eliran Refael 300758190
+
 public class DecisionTreeImpl extends DecisionTree {
   private DecTreeNode root;
   // ordered list of class labels
